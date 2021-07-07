@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% seo title=false %}
+    {% include meta.html %}
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+    <meta name="theme-color" content="#000000">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p> 
+            </div>
+            
+           <div class="cleanslate w24tz-current-time w24tz-small" style="display: inline-block !important; visibility: hidden !important; min-width:200px !important; min-height:100px !important;">
+             <p><a href="//24timezones.com/usa_time/ca_santa_clara/cupertino.php" style="text-decoration: none" class="clock24" id="tz24-1612035505-cu106157-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIwIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I2MDE1YjViMWJhNWFiIiwidHlwZSI6ImRiIiwibGFuZyI6ImVuIn0=" title="Cupertino - Clock" target="_blank" rel="nofollow">Current time at AAAI DC</a></p><div id="clock_block_cb6015b5b1ba5ab"></div></div>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
+
+            <nav>
+              <a href="{{ site.baseurl }}/">Home</a>
+              <a href="{{ site.baseurl }}/faq/">FAQs</a>
+              <a href="{{ site.baseurl }}/about">About</a>
+              <!--<a href="{{ site.baseurl }}/schedule">Schedule</a>-->
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          {{ content }}
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            {% include svg-icons.html %}
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
