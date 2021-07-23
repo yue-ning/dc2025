@@ -9,3 +9,6 @@ permalink: /faq/
     
 2. Do I need to use the AAAI template for the DC abstract?
     - Yes, please use the official templates. Not using the official template will result in a desk rejection.
+
+3. Is it possible to both submit a paper to the AAAI Main Technical track and apply for the Doctoral Consortium?
+	- Yes, you can apply for the Doctoral Consortium and also submit a paper to the main technical track.
