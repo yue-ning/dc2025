@@ -9,7 +9,7 @@ The AAAI doctoral consortium is organized by senior members of the AI research c
 ### Chairs
 - [Anna Helena Reali Costa](https://pcs.usp.br/anna/), Escola Politécnica of the Universidade de São Paulo, Brazil
 - [Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/), ShanghaiTech University, China
-
+- [Lei Li](https://sites.cs.ucsb.edu/~lilei/), Univeristy of California Santa Barbara, USA
 
 
 ### Program Committee
