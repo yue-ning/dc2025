@@ -8,7 +8,7 @@ permalink: /schedule/
 
 ### Session 1: 7:30–10:30AM PST (3:30–6:30PM UTC)
 
-- **Invited Talk I**
+- **Invited Talk I** by [Manuela Veloso](http://www.cs.cmu.edu/~mmv/)
 
 - Ariel Kwiatkowski, "Creating Interactive Crowds with Reinforcement Learning"
 
@@ -45,7 +45,7 @@ permalink: /schedule/
 
 - Stefan Heidekrueger, "Equilibrium Learning in Auction Markets"
 
-- **Invited Talk II**
+- **Invited Talk II** by [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp)
 
 ### Session 5: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
 
@@ -55,4 +55,4 @@ permalink: /schedule/
 
 - Fan Meng, "Creating Interpretable Data-Driven Approaches for Tropical Cyclones Forecasting"
 
-- **Career Panel discussion**
+- **Career Panel Discussion**
