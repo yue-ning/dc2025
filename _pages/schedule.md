@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-## Feb. 22 (Tuesday)
+# Feb. 22 (Tuesday)
 
 ### Session 1: 7:30–10:30AM PST (3:30–6:30PM UTC)
 
@@ -35,7 +35,7 @@ permalink: /schedule/
 - Deeksha Arya, "AI-Driven Road Condition Monitoring Across Multiple Nations"
 
 
-## Feb. 23 (Wednesday)
+# Feb. 23 (Wednesday)
 
 ### Session 4: 7:30–10:30AM PST (3:30–6:30PM UTC)
 
