@@ -8,51 +8,57 @@ permalink: /schedule/
 
 ### Session 1: 7:30–10:30AM PST (3:30–6:30PM UTC)
 
-- **Invited Talk I** by [Manuela Veloso](http://www.cs.cmu.edu/~mmv/)
+- [7:30am] Welcome and Logistics
 
-- Ariel Kwiatkowski, "Creating Interactive Crowds with Reinforcement Learning"
+- [7:45am] **Invited Talk I** by [Manuela Veloso](http://www.cs.cmu.edu/~mmv/)
 
-- Lydia Bryan-Smith, "Using Multimodal Data and AI to Dynamically Map Flood Risk"
+- [8:45am] Ariel Kwiatkowski, "Creating Interactive Crowds with Reinforcement Learning"
 
-- Sebastian Berns, "Increasing the Diversity of Deep Generative Models"
+- [9:20am] Lydia Bryan-Smith, "Using Multimodal Data and AI to Dynamically Map Flood Risk"
 
-### Session 2: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
+- [9:55am] Sebastian Berns, "Increasing the Diversity of Deep Generative Models"
 
-- Oshin Agarwal, "Towards Robust Named Entity Recognition via Temporal Domain Adaptation and Entity Context Understanding"
+### Session 2: 3:30–5:50PM PST (11:30PM–1:50AM[+1d] UTC)
 
-- Kanishka Misra, "On Semantic Cognition, Inductive Generalization, and Language Models"
+- [3:30pm] Oshin Agarwal, "Towards Robust Named Entity Recognition via Temporal Domain Adaptation and Entity Context Understanding"
 
-- Rohan Paleja, "Mutual Understanding in Human-Machine Teaming"
+- [4:05pm] Kanishka Misra, "On Semantic Cognition, Inductive Generalization, and Language Models"
 
-- Indrapriyadarsini Sendilkkumaar, "On the practical robustness of the Nesterov’s accelerated quasi-Newton method"
+- [4:40pm] Rohan Paleja, "Mutual Understanding in Human-Machine Teaming"
 
-### Session 3: 11:30PM–2:30AM[+1d] PST (Feb.23 7:30–10:30AM UTC)
+- [5:15pm] Indrapriyadarsini Sendilkkumaar, "On the practical robustness of the Nesterov’s accelerated quasi-Newton method"
 
-- Geetanjali Bihani, "Interpretable Privacy Preservation of Text Representations Using Vector Steganography"
+### Session 3: 11:30PM–1:15AM[+1d] PST (Feb.23 7:30–9:15AM UTC)
 
-- Nicholas Halliwell, "Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs"
+- [11:30pm] Geetanjali Bihani, "Interpretable Privacy Preservation of Text Representations Using Vector Steganography"
 
-- Deeksha Arya, "AI-Driven Road Condition Monitoring Across Multiple Nations"
+- [12:05am] Nicholas Halliwell, "Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs"
+
+- [12:40am] Deeksha Arya, "AI-Driven Road Condition Monitoring Across Multiple Nations"
 
 
 # Feb. 23 (Wednesday)
 
 ### Session 4: 7:30–10:30AM PST (3:30–6:30PM UTC)
 
-- Shefeh Mbuy, "Dynamic Algorithmic Impact Assessment to Promote an Ethical Use of AI in Businesses"
+- [7:30am] Welcome and Logistics
 
-- Denizalp Goktas, "An Algorithmic Theory of Markets and their Application to Decentralized Markets"
+- [7:45am] Shefeh Mbuy, "Dynamic Algorithmic Impact Assessment to Promote an Ethical Use of AI in Businesses"
 
-- Stefan Heidekrueger, "Equilibrium Learning in Auction Markets"
+- [8:20am] Denizalp Goktas, "An Algorithmic Theory of Markets and their Application to Decentralized Markets"
 
-- **Invited Talk II** by [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp)
+- [8:55am] Stefan Heidekrueger, "Equilibrium Learning in Auction Markets"
+
+- [9:30am] **Invited Talk II** by [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp)
 
 ### Session 5: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
 
-- Aarti Malhotra, "Socially Intelligent Affective AI"
+- [3:30pm] Aarti Malhotra, "Socially Intelligent Affective AI"
 
-- Matthew Fontaine, "Towards Automating the Generation of Human-Robot Interaction Scenarios"
+- [4:05pm] Matthew Fontaine, "Towards Automating the Generation of Human-Robot Interaction Scenarios"
 
-- Fan Meng, "Creating Interpretable Data-Driven Approaches for Tropical Cyclones Forecasting"
+- [4:40pm] Fan Meng, "Creating Interpretable Data-Driven Approaches for Tropical Cyclones Forecasting"
 
-- **Career Panel Discussion**
+- [5:15pm] **Career Panel Discussion**
+
+- [6:15pm] Closing Remarks
