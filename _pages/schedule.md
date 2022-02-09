@@ -57,10 +57,10 @@ Mentor: Mohan Sridharan
 Mentor: Sven Koenig
 
 - [8:20am] Denizalp Goktas, "An Algorithmic Theory of Markets and their Application to Decentralized Markets" \
-Mentor: Dengji Zhao
+Mentor: Jie Zhang
 
 - [8:55am] Stefan Heidekrueger, "Equilibrium Learning in Auction Markets" \
-Mentor: Dengji Zhao
+Mentor: Jie Zhang
 
 - [9:30am] **Invited Talk II** by [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp)
 
