@@ -62,7 +62,7 @@ Mentor: Jie Zhang
 - [8:55am] Stefan Heidekrueger, "Equilibrium Learning in Auction Markets" \
 Mentor: Jie Zhang
 
-- [9:30am] **Invited Talk II** by [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp)
+- [9:30am] **Invited Talk II** by Claudio Pinhanez, "[Multi-Disciplinary Work in AI: Opportunities, Management, and Costs](../speakers/talk2)"
 
 ### Session 5: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
 
