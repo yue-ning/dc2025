@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Claudio Pinhanez
+role: 
 institution: IBM Research Brazil
 date: Feb. 23, 2022
 label: Feb. 23, 2022
