@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Title: Multi-Disciplinary Work in AI: Opportunities, Management, and Costs
+title: Invited Talk
 ---
+
+## Multi-Disciplinary Work in AI: Opportunities, Management, and Costs
 
 **Time**: 9:30 am - 10:30 am PST, Feb. 23
 
