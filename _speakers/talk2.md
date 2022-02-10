@@ -1,10 +1,8 @@
 ---
 layout: speaker
 name: Claudio Pinhanez
-role: 
 institution: IBM Research Brazil
 date: Feb. 23, 2022
-label: Feb. 23, 2022
 time: 9:30 am - 10:30 am PST
 website: https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp
 image: /images/talk2.jpg
