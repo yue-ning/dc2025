@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 ---
 
 ## Title: Multi-Disciplinary Work in AI: Opportunities, Management, and Costs
@@ -8,7 +9,7 @@ layout: page
 
 **Speaker**: [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp)
 
-![[photo]](/images/talk2.jpg)
+![[photo]](../images/talk2.jpg)
 
 **Abstract**: In this talk I discuss the opportunities open by doing multi-disciplinary work in AI and possible impacts, positive and negative, in the career of the researchers involved. I will discuss those issues based on some of the multi-disciplinary projects I have been involved with during my career, including cases of artistic work, collaboration with museums and theme parks, corporate events, and university engagements. I will also provide some advice on how to manage multi-disciplinary teams.
 
