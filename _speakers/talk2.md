@@ -1,11 +1,9 @@
 ---
 layout: page
-title:
+title: Title: Multi-Disciplinary Work in AI: Opportunities, Management, and Costs
 ---
 
-## Title: Multi-Disciplinary Work in AI: Opportunities, Management, and Costs
-
-9:30 am - 10:30 am PST, Feb. 23
+**Time**: 9:30 am - 10:30 am PST, Feb. 23
 
 **Speaker**: [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp) (IBM Research)
 
