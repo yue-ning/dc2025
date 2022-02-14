@@ -10,7 +10,7 @@ permalink: /schedule/
 
 - [7:30am] Welcome and Logistics
 
-- [7:45am] **Invited Talk I** by [Manuela Veloso](http://www.cs.cmu.edu/~mmv/)
+- [7:45am] **Invited Talk I** by Manuela Veloso, "[AI in Finance: Examples and Discussion](../speakers/talk1)"
 
 - [8:45am] Ariel Kwiatkowski, "Creating Interactive Crowds with Reinforcement Learning" \
 Mentor: Joydeep Biwas
