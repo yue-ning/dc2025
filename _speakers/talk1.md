@@ -9,7 +9,7 @@ title: Invited Talk
 
 **Speaker**: [Manuela Veloso](http://www.cs.cmu.edu/~mmv/) (J.P. Morgan AI Research & Carnegie Mellon University)
 
-![[photo]](/dc2022/images/talk1.png)
+![[photo]](/dc2022/images/talk1.PNG)
 
 **Abstract**: In this talk, I will discuss the science and engineering of AI based on my long academic research experience, and my recent research and practice experience in the finance domain at J.P. Morgan Chase. I will present my understanding of the opportunities that AI can bring to society, as well as concrete challenges and contributions in AI and robotics and AI in finance. I will address core challenges of data, knowledge representation, planning and decision making, and machine learning. The message of my work and presentation is on the fact that our goal is to work towards a seamless integration of the capabilities of humans and AI. 
 
