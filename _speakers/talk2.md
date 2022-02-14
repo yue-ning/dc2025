@@ -5,7 +5,7 @@ title: Invited Talk
 
 ## Multi-Disciplinary Work in AI: Opportunities, Management, and Costs
 
-**Time**: 9:30 am - 10:30 am PST, Feb. 23
+**Time**: 10:00 am - 11:00 am PST, Feb. 23
 
 **Speaker**: [Claudio Pinhanez](https://researcher.watson.ibm.com/researcher/view.php?person=br-csantosp) (IBM Research)
 
