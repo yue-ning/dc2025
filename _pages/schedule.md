@@ -36,7 +36,7 @@ Mentor: Lili Mou
 Mentor: Laura Hiatt
 
 - [5:15pm] Indrapriyadarsini Sendilkkumaar, "On the practical robustness of the Nesterov’s accelerated quasi-Newton method" \
-Mentor: TBD
+Mentor: Serdar Kadioglu
 
 
 # Feb. 23 (Wednesday)
