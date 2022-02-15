@@ -6,17 +6,17 @@ permalink: /schedule/
 
 # Feb. 22 (Tuesday)
 
-### Session 1: 7:30–11:05AM PST (3:30–7:05PM UTC)
+### Session 1: 7:45–11:05AM PST (3:30–7:05PM UTC)
 
-- [7:30am] Welcome and Logistics
+- [7:45am] Welcome and Logistics
 
-- [7:45am] **Invited Talk I** by Manuela Veloso, "[AI in Finance: Examples and Discussion](../speakers/talk1)"
+- [8:00am] **Invited Talk I** by Manuela Veloso, "[AI in Finance: Examples and Discussion](../speakers/talk1)"
 
 - [8:45am] Ariel Kwiatkowski, "Creating Interactive Crowds with Reinforcement Learning" \
 Mentor: Joydeep Biwas
 
 - [9:20am] Lydia Bryan-Smith, "Using Multimodal Data and AI to Dynamically Map Flood Risk" \
-Mentor: Bistra Dilkina
+Mentor: TBD
 
 - [9:55am] Sebastian Berns, "Increasing the Diversity of Deep Generative Models" \
 Mentor: Wenbin Zhang
@@ -36,7 +36,7 @@ Mentor: Lili Mou
 Mentor: Laura Hiatt
 
 - [5:15pm] Indrapriyadarsini Sendilkkumaar, "On the practical robustness of the Nesterov’s accelerated quasi-Newton method" \
-Mentor: Sanghamitra Dutta
+Mentor: TBD
 
 
 # Feb. 23 (Wednesday)

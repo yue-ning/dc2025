@@ -5,7 +5,7 @@ title: Invited Talk
 
 ## AI in Finance: Examples and Discussion
 
-**Time**: 7:45 am - 8:45 am PST, Feb. 22
+**Time**: 8:00 am - 8:45 am PST, Feb. 22
 
 **Speaker**: [Manuela Veloso](http://www.cs.cmu.edu/~mmv/) (J.P. Morgan AI Research & Carnegie Mellon University)
 
