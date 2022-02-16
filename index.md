@@ -19,5 +19,5 @@ For additional information (e.g., application procedures) please refer to the ca
 |  Applications due | September 17, 2021  |    |
 |  Acceptance notifications | October 22, 2021 | |
 |  Camera-read due | November 19, 2021 | |
-|  Doctoral consortium | February 22-23, 2022 | [Accepted Papers](/papers) [Schedule](/schedule) |
+|  Doctoral consortium | February 22-23, 2022 | [[Accepted Papers]](/dc2022/papers) [[Schedule]](/dc2022/schedule) |
 |  AAAI-21 | February 22 - March 1, 2022 | |
