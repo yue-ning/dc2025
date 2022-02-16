@@ -6,7 +6,7 @@ permalink: /schedule/
 
 # Feb. 22 (Tuesday)
 
-### Session 1: 7:45–11:05AM PST (3:30–7:05PM UTC)
+### Session 1: 7:45–11:05AM PST (3:45–7:05PM UTC)
 
 - [7:45am] Welcome and Logistics
 
@@ -16,7 +16,7 @@ permalink: /schedule/
 Mentor: Joydeep Biwas
 
 - [9:20am] Lydia Bryan-Smith, "Using Multimodal Data and AI to Dynamically Map Flood Risk" \
-Mentor: TBD
+Mentor: Shirin Sohrabi
 
 - [9:55am] Sebastian Berns, "Increasing the Diversity of Deep Generative Models" \
 Mentor: Wenbin Zhang
