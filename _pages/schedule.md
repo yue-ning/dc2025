@@ -48,14 +48,14 @@ Mentor: Serdar Kadioglu
 - [7:40am] Deeksha Arya, "AI-Driven Road Condition Monitoring Across Multiple Nations" \
 Mentor: Mohan Sridharan
 
-- [8:15am] Shefeh Mbuy, "Dynamic Algorithmic Impact Assessment to Promote an Ethical Use of AI in Businesses" \
-Mentor: Sven Koenig
+- [8:15am] Stefan Heidekrueger, "Equilibrium Learning in Auction Markets" \
+Mentor: Jie Zhang
 
 - [8:50am] Denizalp Goktas, "An Algorithmic Theory of Markets and their Application to Decentralized Markets" \
 Mentor: Jie Zhang
 
-- [9:25am] Stefan Heidekrueger, "Equilibrium Learning in Auction Markets" \
-Mentor: Jie Zhang
+- [9:25am] Shefeh Mbuy, "Dynamic Algorithmic Impact Assessment to Promote an Ethical Use of AI in Businesses" \
+Mentor: Sven Koenig
 
 - [10:00am] **Invited Talk II** by Claudio Pinhanez, "[Multi-Disciplinary Work in AI: Opportunities, Management, and Costs](../speakers/talk2)"
 
