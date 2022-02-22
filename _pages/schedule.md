@@ -41,7 +41,7 @@ Mentor: Serdar Kadioglu
 
 # Feb. 23 (Wednesday)
 
-### Session 4: 7:30–11:00AM PST (3:30–7:00PM UTC)
+### Session 3: 7:30–11:00AM PST (3:30–7:00PM UTC)
 
 - [7:30am] Welcome and Logistics
 
@@ -59,7 +59,7 @@ Mentor: Sven Koenig
 
 - [10:00am] **Invited Talk II** by Claudio Pinhanez, "[Multi-Disciplinary Work in AI: Opportunities, Management, and Costs](../speakers/talk2)"
 
-### Session 5: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
+### Session 4: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
 
 - [3:30pm] Aarti Malhotra, "Socially Intelligent Affective AI" \
 Mentor: Dakuo Wang
@@ -73,6 +73,7 @@ Mentor: Dhaval Patel
 - [5:15pm] Geetanjali Bihani, "Interpretable Privacy Preservation of Text Representations Using Vector Steganography" \
 Mentor: Ferdinando Fioretto
 
-- [5:50pm] **Career Panel Discussion**
+- [5:50pm] **Career Panel Discussion** \
+Panelists: Yuandong Tian (Meta (Facebook) AI Lab); Matthew Gombolay (Georgia Institute of Technology); Ferdinando Fioretto (Syracuse University); Ruben Glatt (Lawrence Livermore National Laboratory).
 
 - [6:30pm] Closing Remarks
