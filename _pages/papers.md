@@ -35,7 +35,7 @@ Drawing from experiments that study inductive reasoning, I propose to analyze se
 - **Abstract:** This study focuses on the Nesterov’s accelerated quasi-Newton (NAQ) method in the context of deep neural networks (DNN) and its applications. The thesis objective is to confirm the robustness and efficiency of Nesterov’s acceleration to quasi-Netwon (QN) methods by developing practical algorithms for different fields of optimization problems.
 
 
-### Session 4
+### Session 3
 
 #397. Deeksha Arya, "AI-Driven Road Condition Monitoring Across Multiple Nations"
 - **Abstract:** The doctoral work summarized here is an application of Artificial Intelligence (AI) for social good. The successful implementation would contribute towards low-cost, faster monitoring of road conditions across different nations, resulting in safer roads for everyone. Additionally, the study provides recommendations for re-using the road image data and the Deep Learning models released by any country for detecting road damage in other countries.
@@ -50,7 +50,7 @@ Drawing from experiments that study inductive reasoning, I propose to analyze se
 - **Abstract:** My doctoral thesis aims to understand the theory and practice of learning Bayesian Nash equilibria in auctions. Positive results would open the door to wide-ranging applications in Market Design and the economic sciences.
 
 
-### Session 5
+### Session 4
 
 #104. Aarti Malhotra, "Socially Intelligent Affective AI"
 - **Abstract:** Artificial Intelligence has aimed to give artificial systems or
