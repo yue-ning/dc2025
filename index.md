@@ -21,3 +21,8 @@ For additional information (e.g., application procedures) please refer to the ca
 |  Camera-read due | November 19, 2021 | |
 |  Doctoral consortium | February 22-23, 2022 | [[Accepted Papers]](/dc2022/papers) [[Schedule]](/dc2022/schedule) |
 |  AAAI-21 | February 22 - March 1, 2022 | |
+
+### Attending
+1. Visit the following page and click "Enter the Virtual Venue" (Chrome or Firefox recommended): https://aaai-2022.virtualchair.net/venue.html
+2. Sign in to gather.town. Please allow camera and microphone accesses.
+3. Move your avatar to the "Red Building" and then the "Plenary Room" (entrance at the center of the Red Building). Alternatively, you can click the Calendar icon on the left, find "Doctor Consortium" in the list and click it, then click "Teleport". This will move your avatar directly to the DC room (Red Building, Plenary Room).
