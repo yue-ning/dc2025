@@ -9,20 +9,17 @@ The Twenty-Seventh AAAI/SIGAI Doctoral Consortium (DC) will provide a group of P
 - Support a new generation of researchers by offering advice about academic, research, industrial, and nontraditional career paths
 - Contribute to the overall conference goals through interaction with other researchers and participation in conference events
 
-For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-22 website](https://aaai.org/Conferences/AAAI-22/aaai22dccall/).
+For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-22 website](https://aaai.org/Conferences/AAAI-23/).
 
 
 ### Important dates
 
 | Event       | Date     | Resource     |
 | :------------- | :----------: | -----------: |
-|  Applications due | September 17, 2021  |    |
-|  Acceptance notifications | October 22, 2021 | |
-|  Camera-read due | November 19, 2021 | |
-|  Doctoral consortium | February 22-23, 2022 | [[Accepted Papers]](/dc2022/papers) [[Schedule]](/dc2022/schedule) |
-|  AAAI-21 | February 22 - March 1, 2022 | |
+|  Applications due | September 2, 2022  |    |
+|  Acceptance notifications | October 7, 2022 | |
+|  Camera-read due | November 4, 2022 | |
+|  Doctoral consortium | February 7-8, 2023 | [[Accepted Papers]](/) [[Schedule]](/dc2023/schedule) |
+|  AAAI-23 | February 7 - February 14, 2023 | |
 
-### Attending
-1. Visit [this page](https://aaai-2022.virtualchair.net/venue.html) and click "Enter the Virtual Venue" (Chrome or Firefox recommended).
-2. Sign in to gather.town. Please allow camera and microphone accesses.
-3. Move your avatar to the "Red Building" and then the "Plenary Room" (entrance at the center of the Red Building). Alternatively, you can click the Calendar icon on the left, find "Doctor Consortium" in the list and click it, then click "Teleport". This will move your avatar directly to the DC room (Red Building, Plenary Room).
+
