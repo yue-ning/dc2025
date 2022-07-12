@@ -9,7 +9,7 @@ The Twenty-Seventh AAAI/SIGAI Doctoral Consortium (DC) will provide a group of P
 - Support a new generation of researchers by offering advice about academic, research, industrial, and nontraditional career paths
 - Contribute to the overall conference goals through interaction with other researchers and participation in conference events
 
-For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-22 website](https://aaai.org/Conferences/AAAI-23/).
+For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-23 website](https://aaai.org/Conferences/AAAI-23/).
 
 
 ### Important dates
