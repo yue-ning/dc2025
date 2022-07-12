@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: AAAI-DC 2022
+name: AAAI-DC 2023
 
 # Name of the author
 author: AAAI
 
 # Short bio or description (displayed in the header)
-description: AAAI/SIGAI-22 Doctoral Consortium
+description: AAAI/SIGAI-23 Doctoral Consortium
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/aaai-logo.png
@@ -29,7 +29,7 @@ footer-links:
 #  linkedin: 
 #  pinterest:
 #  rss: rss
-#  twitter: CogSys2020
+#  twitter: realaaai
 #  stackoverflow: 
 #  youtube: # channel/<your_long_string> or user/<user-name>
 #  googleplus: # anything in your profile username that comes after plus.google.com/
@@ -52,7 +52,7 @@ footer-links:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/dc2022"
+baseurl: "/dc2023"
 
 #
 # !! You don't need to change any of the configuration flags below !!
