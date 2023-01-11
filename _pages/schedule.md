@@ -14,42 +14,42 @@ permalink: /schedule/
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
-- [11:00am]  Kaleigh Clary \
+- [11:00am]  Kaleigh Clary *Assessing Learned Representations under Open-World Novelty*\
 Mentor: Amy Zhang
 
-- [11:30am] Saed Rezayi \
+- [11:30am] Saed Rezayi *Learning Better Representations Using Auxiliary Knowledge*\
 Mentor: Ruben Glatt
 
 **[12:00pm - 1:00pm] Lunch**
 
 ### Session 2: 1pm–3pm EST
 
-- [1:00pm] Esmaeil Seraj \
+- [1:00pm] Esmaeil Seraj *Embodied, Intelligent Communication for Multi-Agent Cooperation*\
 Mentor: Matthew E., Taylor
 
-- [1:30pm] Lily Xu \
+- [1:30pm] Lily Xu *Learning and Planning Under Uncertainty for Conservation Decisions*\
 Mentor: David Aha
 
-- [2:00pm] Joel Michelson \
+- [2:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
 Mentor: Anna Helena Reali Costa
 
-- [2:30pm]  Yiwei Lyu \
+- [2:30pm]  Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
 Mentor: Fei Fang
 
 **[3:00pm - 3:30pm] break and social**
 
 ### Session 3: 3:30–5:30pm EST 
 
-- [3:30pm] Huixin Zhan \
+- [3:30pm] Huixin Zhan *Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes*\
 Mentor: Stefania Costantini
 
-- [4:00pm]  Jadie Adams \
+- [4:00pm]  Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
 Mentor: Mohan Sridharan
 
-- [4:30pm] Joseph Alejandro Gallego Mejia \
+- [4:30pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
 Mentor: Maria Chang
 
-- [5:00pm] Andrea Pugnana \
+- [5:00pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
 Mentor: Lei Li
 
 
@@ -61,26 +61,26 @@ Mentor: Lei Li
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
-- [11:00am]  Raja Farrukh Ali  \
+- [11:00am]  Raja Farrukh Ali  *Non-Exponential Reward Discounting in Reinforcement Learning*\
 Mentor: Yi Wu
 
-- [11:30am]  Hiromu Yakura \
+- [11:30am]  Hiromu Yakura *Failure-Resistant Intelligent Interaction for Reliable Human-AI Collaboration*\
 Mentor: Pulkit Agrawal
 
 **[12:00pm - 1:00pm] Lunch**
 
 ### Session 2: 1pm–3pm EST
 
-- [1:00pm] Thao Le \
+- [1:00pm] Thao Le *Explaining the Uncertainty in AI-Assisted Decision Making*\
 Mentor: Jakob Foerster
 
-- [1:30pm] Priyanka Ranade \
+- [1:30pm] Priyanka Ranade *Knowledge-Embedded Narrative Construction from Open Source Intelligence*\
 Mentor: Mark Roberts
 
 - [2:00pm] Lucia Cipolina-Kun \
 Mentor: Biplav Srivastava 
 
-- [2:30pm]  Xinlu Zhang \
+- [2:30pm]  Xinlu Zhang *Deep learning for Medical Prediction in Electronic Health Records*\
 Mentor: Laura Hiatt
 
 
@@ -88,7 +88,7 @@ Mentor: Laura Hiatt
 
 ### Session 3: 3:30–5:30pm EST 
 
-- [3:30pm]  Catherine Ordun \
+- [3:30pm] Andrea Pugnana *Topics in Selective Classification*\ 
 Mentor: Brenda Ng
 
 - [4:00pm]  Yiming Li \
