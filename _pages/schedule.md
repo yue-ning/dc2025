@@ -4,76 +4,100 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Feb. 22 (Tuesday)
+# Feb. 7 (Tuesday)
 
-### Session 1: 7:45–11:05AM PST (3:45–7:05PM UTC)
+### Session 1: 8:45am–12pm EST
 
-- [7:45am] Welcome and Logistics
+- [8:45am] Welcome and Logistics
 
-- [8:00am] **Invited Talk I** by TBD
+- [9:00am-10:00am] **Invited Talk** Amy Zhang
 
-- [8:45am]  \
-Mentor: 
+- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
-- [9:20am]   \
-Mentor: 
+- [11:00am]  Kaleigh Clary \
+Mentor: Amy Zhang
 
-- [9:55am] \
-Mentor: 
+- [11:30am] Saed Rezayi \
+Mentor: Ruben Glatt
 
-- [10:30am]  \
-Mentor: 
+**[12:00pm - 1:00pm] Lunch **
 
-### Session 2: 3:30–5:50PM PST (11:30PM–1:50AM[+1d] UTC)
+### Session 2: 1pm–3pm EST
 
-- [3:30pm]  \
-Mentor: 
+- [1:00pm] Esmaeil Seraj \
+Mentor: Matthew E., Taylor
 
-- [4:05pm]  \
-Mentor: 
+- [1:30pm] Lily Xu \
+Mentor: David Aha
 
-- [4:40pm]  \
-Mentor: 
+- [2:00pm] Joel Michelson \
+Mentor: Anna Helena Reali Costa
 
-- [5:15pm] \
-Mentor: 
+- [2:30pm]  Yiwei Lyu \
+Mentor: Fei Fang
+
+**[3:00pm - 3:30pm] break and social **
+
+### Session 3: 3:30–5:30pm EST 
+
+- [3:30pm] Huixin Zhan \
+Mentor: Stefania Costantini
+
+- [4:00pm]  Jadie Adams \
+Mentor: Mohan Sridharan
+
+- [4:30pm] Joseph Alejandro Gallego Mejia \
+Mentor: Maria Chang
+
+- [5:00pm] Andrea Pugnana \
+Mentor: Lei Li
 
 
-# Feb. 23 (Wednesday)
+# Feb. 8 (Wednesday)
 
-### Session 3: 7:30–11:00AM PST (3:30–7:00PM UTC)
+### Session 4: 9:00am–12pm EST
 
-- [7:30am] Welcome and Logistics
+- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal
 
-- [7:40am] \
-Mentor: 
+- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
-- [8:15am]  \
-Mentor: 
+- [11:00am]  Raja Farrukh Ali  \
+Mentor: Yi Wu
 
-- [8:50am]  \
-Mentor: 
+- [11:30am]  Hiromu Yakura \
+Mentor: Pulkit Agrawal
 
-- [9:25am]  \
-Mentor: 
+**[12:00pm - 1:00pm] Lunch **
 
-- [10:00am] **Invited Talk II** by 
+### Session 2: 1pm–3pm EST
 
-### Session 4: 3:30–6:30PM PST (11:30PM–2:30AM[+1d] UTC)
+- [1:00pm] Thao Le \
+Mentor: Jakob Foerster
 
-- [3:30pm]  \
-Mentor: 
+- [1:30pm] Priyanka Ranade \
+Mentor: Mark Roberts
 
-- [4:05pm]  \
-Mentor: 
+- [2:00pm] Lucia Cipolina-Kun \
+Mentor: Biplav Srivastava 
 
-- [4:40pm]  \
-Mentor: 
+- [2:30pm]  Xinlu Zhang \
+Mentor: Laura Hiatt
 
-- [5:15pm]  \
-Mentor: 
 
-- [5:50pm] **Career Panel Discussion** \
-Panelists: 
+**[3:00pm - 3:30pm] break and social **
 
-- [6:30pm] Closing Remarks
+### Session 3: 3:30–5:30pm EST 
+
+- [3:30pm]  Catherine Ordun \
+Mentor: Brenda Ng
+
+- [4:00pm]  Yiming Li \
+Mentor: Andrea, Omicini
+
+- [4:30pm] James Ainooson \
+Mentor: Matthew Gombolay
+
+- [5:00pm] Yuwei Sun \
+Mentor: Felipe Rech Meneguzzi 
+
+- [5:30pm] Closing Remarks
