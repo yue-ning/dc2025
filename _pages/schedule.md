@@ -6,7 +6,7 @@ permalink: /schedule/
 
 # Feb. 7 (Tuesday)
 
-### Session 1: 8:45am–12pm EST
+### Session 1: 8:45am–12:30pm EST
 
 - [8:45am] Welcome and Logistics
 
@@ -20,36 +20,36 @@ Mentor: Amy Zhang
 - [11:30am] Saed Rezayi *Learning Better Representations Using Auxiliary Knowledge*\
 Mentor: Ruben Glatt
 
-**[12:00pm - 1:00pm] Lunch**
+- [12:00pm] Huixin Zhan *Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes*\
+Mentor: Stefania Costantini
+ 
+**[12:30pm - 2:00pm] Lunch**
 
-### Session 2: 1pm–3pm EST
+### Session 2: 2pm–3:30pm EST
 
-- [1:00pm] Esmaeil Seraj *Embodied, Intelligent Communication for Multi-Agent Cooperation*\
-Mentor: Matthew E., Taylor
-
-- [1:30pm] Lily Xu *Learning and Planning Under Uncertainty for Conservation Decisions*\
+- [2:00pm] Lily Xu *Learning and Planning Under Uncertainty for Conservation Decisions*\
 Mentor: David Aha
 
-- [2:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
-Mentor: Anna Helena Reali Costa
+- [2:30pm] Esmaeil Seraj *Embodied, Intelligent Communication for Multi-Agent Cooperation*\
+Mentor: Matthew E., Taylor
 
-- [2:30pm]  Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
+- [3:00pm]  Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
 Mentor: Fei Fang
 
-**[3:00pm - 3:30pm] break and social**
+**[3:30pm - 4:00pm] break and social**
 
-### Session 3: 3:30–5:30pm EST 
+### Session 3: 4:00–6:00pm EST 
 
-- [3:30pm] Huixin Zhan *Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes*\
-Mentor: Stefania Costantini
+- [4:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
+Mentor: Anna Helena Reali Costa
 
-- [4:00pm]  Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
+- [4:30pm] Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
 Mentor: Mohan Sridharan
 
-- [4:30pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
+- [5:00pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
 Mentor: Maria Chang
 
-- [5:00pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
+- [5:30pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
 Mentor: Lei Li
 
 
@@ -67,37 +67,36 @@ Mentor: Yi Wu
 - [11:30am]  Hiromu Yakura *Failure-Resistant Intelligent Interaction for Reliable Human-AI Collaboration*\
 Mentor: Pulkit Agrawal
 
-**[12:00pm - 1:00pm] Lunch**
-
-### Session 2: 1pm–3pm EST
-
-- [1:00pm] Thao Le *Explaining the Uncertainty in AI-Assisted Decision Making*\
+- [12:00pm] Thao Le *Explaining the Uncertainty in AI-Assisted Decision Making*\
 Mentor: Jakob Foerster
 
-- [1:30pm] Priyanka Ranade *Knowledge-Embedded Narrative Construction from Open Source Intelligence*\
-Mentor: Mark Roberts
+**[12:30pm - 2:00pm] Lunch**
 
-- [2:00pm] Lucia Cipolina-Kun \
-Mentor: Biplav Srivastava 
+### Session 2: 2pm–3:30pm EST
+
+- [2:00pm] Priyanka Ranade *Knowledge-Embedded Narrative Construction from Open Source Intelligence*\
+Mentor: Mark Roberts
 
 - [2:30pm]  Xinlu Zhang *Deep learning for Medical Prediction in Electronic Health Records*\
 Mentor: Laura Hiatt
 
+- [3:00pm] Lucia Cipolina-Kun \
+Mentor: Biplav Srivastava 
 
-**[3:00pm - 3:30pm] break and social**
+**[3:30pm - 4:00pm] break and social**
 
-### Session 3: 3:30–5:30pm EST 
+### Session 3: 4:00–6:00pm EST 
 
-- [3:30pm] Andrea Pugnana *Topics in Selective Classification*\ 
-Mentor: Brenda Ng
-
-- [4:00pm]  Yiming Li \
+- [4:00pm]  Yiming Li *Poisoning-based Backdoor Attacks in Computer Vision* \
 Mentor: Andrea, Omicini
 
-- [4:30pm] James Ainooson \
+- [4:30pm] James Ainooson *Modeling strategies as programs: How to study strategy differences in intelligent systems with program synthesis* \
 Mentor: Matthew Gombolay
 
-- [5:00pm] Yuwei Sun \
+- [5:00pm] Yuwei Sun *Meta Learning in Decentralized Neural Networks: Towards More General AI*\
 Mentor: Felipe Rech Meneguzzi 
+
+- [5:30pm] Andrea Pugnana *Topics in Selective Classification*\ 
+Mentor: 
 
 - [5:30pm] Closing Remarks
