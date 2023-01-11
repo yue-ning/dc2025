@@ -20,7 +20,7 @@ Mentor: Amy Zhang
 - [11:30am] Saed Rezayi \
 Mentor: Ruben Glatt
 
-**[12:00pm - 1:00pm] Lunch **
+**[12:00pm - 1:00pm] Lunch**
 
 ### Session 2: 1pm–3pm EST
 
