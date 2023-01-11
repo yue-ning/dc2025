@@ -36,7 +36,7 @@ Mentor: Anna Helena Reali Costa
 - [2:30pm]  Yiwei Lyu \
 Mentor: Fei Fang
 
-**[3:00pm - 3:30pm] break and social **
+**[3:00pm - 3:30pm] break and social**
 
 ### Session 3: 3:30–5:30pm EST 
 
@@ -67,7 +67,7 @@ Mentor: Yi Wu
 - [11:30am]  Hiromu Yakura \
 Mentor: Pulkit Agrawal
 
-**[12:00pm - 1:00pm] Lunch **
+**[12:00pm - 1:00pm] Lunch**
 
 ### Session 2: 1pm–3pm EST
 
@@ -84,7 +84,7 @@ Mentor: Biplav Srivastava
 Mentor: Laura Hiatt
 
 
-**[3:00pm - 3:30pm] break and social **
+**[3:00pm - 3:30pm] break and social**
 
 ### Session 3: 3:30–5:30pm EST 
 
