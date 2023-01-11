@@ -27,30 +27,30 @@ Mentor: Stefania Costantini
 
 ### Session 2: 2pm–3:30pm EST
 
-- [2:00pm] Lily Xu *Learning and Planning Under Uncertainty for Conservation Decisions*\
-Mentor: David Aha
+- [2:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
+Mentor: Anna Helena Reali Costa
 
-- [2:30pm] Esmaeil Seraj *Embodied, Intelligent Communication for Multi-Agent Cooperation*\
-Mentor: Matthew E., Taylor
+- [2:30pm] Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
+Mentor: Mohan Sridharan
 
-- [3:00pm]  Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
-Mentor: Fei Fang
+- [3:00pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
+Mentor: Lei Li 
 
 **[3:30pm - 4:00pm] break and social**
 
 ### Session 3: 4:00–6:00pm EST 
 
-- [4:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
-Mentor: Anna Helena Reali Costa
+- [4:00pm] Lily Xu *Learning and Planning Under Uncertainty for Conservation Decisions*\
+Mentor: David Aha
 
-- [4:30pm] Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
-Mentor: Mohan Sridharan
+- [4:30pm] Esmaeil Seraj *Embodied, Intelligent Communication for Multi-Agent Cooperation*\
+Mentor: Matthew E., Taylor
 
-- [5:00pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
-Mentor: Maria Chang
+- [5:00pm] Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
+Mentor: Fei Fang
 
-- [5:30pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
-Mentor: Lei Li
+- [5:30pm] Lucia Cipolina-Kun *Multi-Agent Reinforcement Learning with Theoretical Guarantees*\
+Mentor: Biplav Srivastava 
 
 
 # Feb. 8 (Wednesday)
@@ -80,8 +80,8 @@ Mentor: Mark Roberts
 - [2:30pm]  Xinlu Zhang *Deep learning for Medical Prediction in Electronic Health Records*\
 Mentor: Laura Hiatt
 
-- [3:00pm] Lucia Cipolina-Kun \
-Mentor: Biplav Srivastava 
+- [3:00pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
+Mentor: Maria Chang
 
 **[3:30pm - 4:00pm] break and social**
 
@@ -99,4 +99,4 @@ Mentor: Felipe Rech Meneguzzi
 - [5:30pm] Andrea Pugnana *Topics in Selective Classification*\ 
 Mentor: 
 
-- [5:30pm] Closing Remarks
+- [6:00pm] Closing Remarks
