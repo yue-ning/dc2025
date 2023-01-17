@@ -10,7 +10,7 @@ permalink: /schedule/
 
 - [8:45am] Welcome and Logistics
 
-- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [[Exploring Context for Better Generalization in Reinforcement Learning]](speakers/amy_zhang/)
+- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [Exploring Context for Better Generalization in Reinforcement Learning](speakers/amy_zhang/)
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
