@@ -28,7 +28,7 @@ Mentor: Stefania Costantini
 ### Session 2: 2pm–3:30pm EST
 
 - [2:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
-Mentor: Anna Helena Reali Costa
+Mentor: Laura Hiatt
 
 - [2:30pm] Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
 Mentor: Mohan Sridharan
@@ -46,11 +46,11 @@ Mentor: David Aha
 - [4:30pm] Esmaeil Seraj *Embodied, Intelligent Communication for Multi-Agent Cooperation*\
 Mentor: Matthew E., Taylor
 
-- [5:00pm] Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
-Mentor: Fei Fang
-
-- [5:30pm] Lucia Cipolina-Kun *Multi-Agent Reinforcement Learning with Theoretical Guarantees*\
+- [5:00pm] Lucia Cipolina-Kun *Multi-Agent Reinforcement Learning with Theoretical Guarantees*\
 Mentor: Biplav Srivastava 
+
+- [5:30pm] Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
+Mentor: Fei Fang
 
 
 # Feb. 8 (Wednesday)
@@ -78,7 +78,7 @@ Mentor: Jakob Foerster
 Mentor: Mark Roberts
 
 - [2:30pm]  Xinlu Zhang *Deep learning for Medical Prediction in Electronic Health Records*\
-Mentor: Laura Hiatt
+Mentor: 
 
 - [3:00pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
 Mentor: Maria Chang
