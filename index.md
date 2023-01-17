@@ -19,7 +19,7 @@ For additional information (e.g., application procedures) please refer to the ca
 |  Applications due | September 2, 2022  |    |
 |  Acceptance notifications | October 7, 2022 | |
 |  Camera-read due | November 4, 2022 | |
-|  Doctoral consortium | February 7-8, 2023 | [[Accepted Papers]](/) [[Schedule]](/dc2023/schedule) |
+|  Doctoral consortium | February 7-8, 2023 | [Accepted Papers](/papers) [Schedule](/schedule) |
 |  AAAI-23 | February 7 - February 14, 2023 | |
 
 

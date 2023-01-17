@@ -100,3 +100,6 @@ Mentor: Felipe Rech Meneguzzi
 Mentor: 
 
 - [6:00pm] Closing Remarks
+
+
+[Accepted Papers](./papers)
