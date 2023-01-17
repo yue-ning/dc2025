@@ -10,7 +10,7 @@ permalink: /schedule/
 
 - [8:45am] Welcome and Logistics
 
-- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [](Exploring Context for Better Generalization in Reinforcement Learning)
+- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [[Exploring Context for Better Generalization in Reinforcement Learning]](speakers/amy_zhang/)
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
@@ -57,7 +57,7 @@ Mentor: Fei Fang
 
 ### Session 4: 9:00am–12pm EST
 
-- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal
+- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), 
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
