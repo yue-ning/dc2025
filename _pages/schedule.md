@@ -57,7 +57,7 @@ Mentor: Fei Fang
 
 ### Session 4: 9:00am–12pm EST
 
-- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), 
+- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), [Fun with Robots and Machine Learning](../speakers/pulkit_agrawal)
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
