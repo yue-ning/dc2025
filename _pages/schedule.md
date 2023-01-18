@@ -78,7 +78,7 @@ Mentor: Jakob Foerster
 Mentor: Mark Roberts
 
 - [2:30pm]  Xinlu Zhang *Deep learning for Medical Prediction in Electronic Health Records*\
-Mentor: 
+Mentor: Jun Araki
 
 - [3:00pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
 Mentor: Maria Chang
