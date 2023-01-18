@@ -96,7 +96,7 @@ Mentor: Matthew Gombolay
 - [5:00pm] Yuwei Sun *Meta Learning in Decentralized Neural Networks: Towards More General AI*\
 Mentor: Felipe Rech Meneguzzi 
 
-- [5:30pm] Andrea Pugnana *Topics in Selective Classification*\ 
+- [5:30pm] Andrea Pugnana *Topics in Selective Classification* \
 Mentor: 
 
 - [6:00pm] Closing Remarks
