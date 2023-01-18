@@ -2,8 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
-name: AAAI-DC 2023
+# Title of your site (displayed in the header)
+title: AAAI-DC 2023
 
 # Name of the author
 author: AAAI
