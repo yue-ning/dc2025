@@ -1,17 +1,14 @@
 ---
 layout: speaker
 name: Pulkit Agrawal
-role: 
-institution: 
+role: Assistant Professor
+institution: Massachusetts Institute of Technology
 date: Feb 8, 2023
-label: 
 time: 9:00 am - 10:00 am EST
 day: day2
-website: 
+website: https://people.csail.mit.edu/pulkitag/
 image: /images/pulkit.jpeg
-title:
-abstract: 
-
-bio: 
-
+title: TBD
+abstract: TBD
+bio: TBD
 ---

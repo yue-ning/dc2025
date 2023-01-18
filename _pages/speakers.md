@@ -8,7 +8,8 @@ permalink: "/speakers/"
   <div class="speaker">
      <p>
      <h2>{{ speaker.name }}</h2> 
-    {{ speaker.role }}, &nbsp;  {{ speaker.institution }} &nbsp; <a href="{{ speaker.website }}"> Homepage </a> <br>
+     <center>
+    {{ speaker.role }}, &nbsp;  {{ speaker.institution }} &nbsp; <a href="{{ speaker.website }}"> Homepage </a> </center> <br>
     <b>Title</b>: {{ speaker.title }} <br>
     <a href="..{{ speaker.url }}">link</a>
     </p>
