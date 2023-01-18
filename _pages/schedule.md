@@ -102,4 +102,4 @@ Mentor:
 - [6:00pm] Closing Remarks
 
 
-[Accepted Papers](./papers)
+[Accepted Papers](../papers)
