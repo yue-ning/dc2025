@@ -100,6 +100,4 @@ exclude:
 collections:
   speakers:
     output: true
-  panelists:
-    output: true
 
