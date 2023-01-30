@@ -12,6 +12,7 @@ The AAAI doctoral consortium is organized by senior members of the AI research c
 
 
 ### Program Committee
+
 |Lei Li|University of California Santa Barbara|
 |Sebastian Stein|University of Southampton|
 |Jakob Foerster|University of Oxford|
