@@ -97,7 +97,7 @@ Mentor: Matthew Gombolay
 Mentor: Felipe Rech Meneguzzi 
 
 - [5:30pm] Andrea Pugnana *Topics in Selective Classification* \
-Mentor: 
+Mentor: Lili Mou
 
 - [6:00pm] Closing Remarks
 
