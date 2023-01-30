@@ -3,8 +3,9 @@ layout: speaker
 name: Amy Zhang
 role: Assistant Professor
 institution: The University of Texas at Austin
-date: Feb 7, 2023
-time: 9:00am - 10:00am EST
+date: Feb 7th, 2023
+label: Feb 7th, 2023
+time: 9:00 am - 10:00 am EST
 day: day1
 website: https://amyzhang.github.io
 image: /dc2023/images/amyzhang.png
