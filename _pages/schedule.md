@@ -102,4 +102,8 @@ Mentor: Lili Mou
 - [6:00pm] Closing Remarks
 
 
+**Poster Session**
+Thursday Feb 9th, 7-9pm EST (along with AAAI main conference)
+
+
 [Accepted Papers](../papers)
