@@ -30,8 +30,8 @@ Mentor: Stefania Costantini
 - [2:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
 Mentor: Laura Hiatt
 
-- [2:30pm] Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
-Mentor: Mohan Sridharan
+- [2:30pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
+Mentor: Maria Chang
 
 - [3:00pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
 Mentor: Lei Li 
@@ -80,8 +80,8 @@ Mentor: Mark Roberts
 - [2:30pm]  Xinlu Zhang *Deep learning for Medical Prediction in Electronic Health Records*\
 Mentor: Jun Araki
 
-- [3:00pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
-Mentor: Maria Chang
+- [3:00pm] Jadie Adams *Probabilistic Shape Models of Anatomy Directly from Images*\
+Mentor: Mohan Sridharan
 
 **[3:30pm - 4:00pm] break and social**
 
@@ -102,7 +102,8 @@ Mentor: Lili Mou
 - [6:00pm] Closing Remarks
 
 
-**Poster Session**
+### Poster Session
+
 Thursday Feb 9th, 7-9pm EST (along with AAAI main conference)
 
 
