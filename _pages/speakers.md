@@ -12,9 +12,12 @@ permalink: "/speakers/"
     {{ speaker.role }}, &nbsp;  {{ speaker.institution }} &nbsp; <a href="{{ speaker.website }}"> Homepage </a> </center> <br>
     <p class="aligncenter">
              <img src="/dc2023/{{ page.image }}" alt="{{ page.image }}" style="max-height:250px;">
-            </p>
+    </p>
     <b>Title</b>: {{ speaker.title }} <br>
     <a href="..{{ speaker.url }}">link</a>
+    
     </p>
+    <p><b>Abstract</b>: {{ page.abstract }}</p>
+    <p><b>Bio</b>: {{ page.bio }}</p>
   </div>
 {% endfor %}
