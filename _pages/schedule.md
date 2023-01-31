@@ -8,9 +8,10 @@ permalink: /schedule/
 
 ### Session 1: 8:45am–12:30pm EST
 
-- [8:45am] Welcome and Logistics
+- [8:45am] Welcome and Logistics, Lei Li and Jakob Foerster.
 
-- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [Exploring Context for Better Generalization in Reinforcement Learning](../speakers/)
+- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [Exploring Context for Better Generalization in Reinforcement Learning](../speakers/) \
+Host: Lei Li
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
@@ -59,7 +60,8 @@ Mentor: Fei Fang
 
 ### Session 4: 9:00am–12pm EST
 
-- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), [Fun with Robots and Machine Learning](../speakers/)
+- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), [Fun with Robots and Machine Learning](../speakers/) \
+Host: Jakob Foerster
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
