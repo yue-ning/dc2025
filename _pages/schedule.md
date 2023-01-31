@@ -10,7 +10,7 @@ permalink: /schedule/
 
 - [8:45am] Welcome and Logistics
 
-- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [Exploring Context for Better Generalization in Reinforcement Learning](../speakers/amy_zhang)
+- [9:00am-10:00am] **Invited Talk** Amy Zhang (UT Austin), [Exploring Context for Better Generalization in Reinforcement Learning](../speakers/)
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
@@ -59,12 +59,12 @@ Mentor: Fei Fang
 
 ### Session 4: 9:00am–12pm EST
 
-- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), [Fun with Robots and Machine Learning](../speakers/pulkit_agrawal)
+- [9:00am-10:00am] **Invited Talk** Pulkit Agrawal (MIT), [Fun with Robots and Machine Learning](../speakers/)
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
 - [11:00am]  Raja Farrukh Ali  *Non-Exponential Reward Discounting in Reinforcement Learning*\
-Mentor: Yi Wu
+Mentor: Jakob Foerster
 
 - [11:30am]  Hiromu Yakura *Failure-Resistant Intelligent Interaction for Reliable Human-AI Collaboration*\
 Mentor: Pulkit Agrawal
