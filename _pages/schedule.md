@@ -23,7 +23,7 @@ Mentor: Ruben Glatt
 - [12:00pm] Huixin Zhan *Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes*\
 Mentor: Stefania Costantini
  
-**[12:30pm - 2:00pm] Lunch**
+**[12:30pm - 2:00pm] Lunch (Student lead lunch with mentors)**
 
 ### Session 2: 2pm–3:30pm EST
 
@@ -52,6 +52,8 @@ Mentor: Biplav Srivastava
 - [5:30pm] Yiwei Lyu *Safe Interactive Autonomy for Multi-agent Systems*\
 Mentor: Fei Fang
 
+** [6:15-8:30pm] Group Dinner for all mentors and students **
+
 
 # Feb. 8 (Wednesday)
 
@@ -68,9 +70,9 @@ Mentor: Yi Wu
 Mentor: Pulkit Agrawal
 
 - [12:00pm] Thao Le *Explaining the Uncertainty in AI-Assisted Decision Making*\
-Mentor: Jakob Foerster
+Mentor: Matthew Gombolay
 
-**[12:30pm - 2:00pm] Lunch**
+**[12:30pm - 2:00pm] Lunch (Student lead lunch with mentors)**
 
 ### Session 2: 2pm–3:30pm EST
 
@@ -90,14 +92,14 @@ Mentor: Mohan Sridharan
 - [4:00pm]  Yiming Li *Poisoning-based Backdoor Attacks in Computer Vision* \
 Mentor: Andrea, Omicini
 
-- [4:30pm] James Ainooson *Modeling strategies as programs: How to study strategy differences in intelligent systems with program synthesis* \
-Mentor: Matthew Gombolay
+- [4:30pm] Andrea Pugnana *Topics in Selective Classification* \
+Mentor: Lili Mou
 
 - [5:00pm] Yuwei Sun *Meta Learning in Decentralized Neural Networks: Towards More General AI*\
 Mentor: Felipe Rech Meneguzzi 
 
-- [5:30pm] Andrea Pugnana *Topics in Selective Classification* \
-Mentor: Lili Mou
+- [5:30pm] James Ainooson *Modeling strategies as programs: How to study strategy differences in intelligent systems with program synthesis* \
+Mentor: 
 
 - [6:00pm] Closing Remarks
 
