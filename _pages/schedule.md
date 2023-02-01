@@ -65,8 +65,8 @@ Host: Jakob Foerster
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
 
-- [11:00am]  Raja Farrukh Ali  *Non-Exponential Reward Discounting in Reinforcement Learning*\
-Mentor: Jakob Foerster
+- [11:00am]  Yiming Li *Poisoning-based Backdoor Attacks in Computer Vision* \
+Mentor: Andrea, Omicini
 
 - [11:30am]  Hiromu Yakura *Failure-Resistant Intelligent Interaction for Reliable Human-AI Collaboration*\
 Mentor: Pulkit Agrawal
@@ -91,8 +91,8 @@ Mentor: Mohan Sridharan
 
 ### Session 3: 4:00–6:00pm EST 
 
-- [4:00pm]  Yiming Li *Poisoning-based Backdoor Attacks in Computer Vision* \
-Mentor: Andrea, Omicini
+- [4:00pm] Raja Farrukh Ali  *Non-Exponential Reward Discounting in Reinforcement Learning*\
+Mentor: Jakob Foerster
 
 - [4:30pm] Andrea Pugnana *Topics in Selective Classification* \
 Mentor: Lili Mou
