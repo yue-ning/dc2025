@@ -18,8 +18,8 @@ Host: Lei Li
 - [11:00am]  Kaleigh Clary *Assessing Learned Representations under Open-World Novelty*\
 Mentor: Amy Zhang
 
-- [11:30am] Saed Rezayi *Learning Better Representations Using Auxiliary Knowledge*\
-Mentor: Ruben Glatt
+- [11:30am] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
+Mentor: Maria Chang
 
 - [12:00pm] Huixin Zhan *Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes*\
 Mentor: Stefania Costantini
@@ -31,8 +31,8 @@ Mentor: Stefania Costantini
 - [2:00pm] Joel Michelson *Theory of mind: a familiar aspect of humanity to give machines*\
 Mentor: Laura Hiatt
 
-- [2:30pm] Joseph Alejandro Gallego Mejia *Efficient Non-Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection*\
-Mentor: Maria Chang
+- [2:30pm] Saed Rezayi *Learning Better Representations Using Auxiliary Knowledge*\
+Mentor: Ruben Glatt
 
 - [3:00pm] Catherine Ordun *Multimodal Deep Generative Models for Remote Medical Applications*\
 Mentor: Lei Li 
