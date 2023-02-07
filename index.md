@@ -22,5 +22,9 @@ For additional information (e.g., application procedures) please refer to the ca
 |  Doctoral consortium | February 7-8, 2023 | [Accepted Papers](/dc2023/papers) and [Schedule](/dc2023/schedule) |
 |  AAAI-23 | February 7 - February 14, 2023 | |
 
+### Conference Location
+Walter E. Washington Convention Center, Room 209A.
+Washington DC, USA. 
+
 
 [Earlier years](/)
