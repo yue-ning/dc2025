@@ -4,6 +4,9 @@ title: Schedule
 permalink: /schedule/
 ---
 
+# Location
+Walter E. Washington Convention Center, Room 209A.
+
 # Feb. 7 (Tuesday)
 
 ### Session 1: 8:45am–12:30pm EST
