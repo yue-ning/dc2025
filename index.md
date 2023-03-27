@@ -27,4 +27,9 @@ Walter E. Washington Convention Center, Room 209A.
 Washington DC, USA. 
 
 
+----------
+# Sponsor
+
+![](/dc2023/images/AIJ-logo.jpeg)
+
 [Earlier years](/)
